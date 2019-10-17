@@ -1,4 +1,21 @@
+A simple react front end for github API with the following... 
+#### Features:
+
+- **Simple** search of (public) github users
+
+![alt text](./docs/images/Search_empty.png)
+
+![alt text](./docs/images/Search_users.png)
+
+
+- User details with basic info highlighted with different ui components and list of repos  
+
+![alt text](./docs/images/User_details.png)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
